@@ -1,6 +1,28 @@
+#labels -
 == Aktueller Status ==
 
-Entwurf
+Erstellen des Entwurfsvortrags
+
+== Entwurf ==
+
+Madeleine:
+ * Motivation (Einleitung in Thematik) überlegen
+ * Kategorien erstellen
+ * Datenbankschema
+ * ERD
+ * Suchprozess
+
+Hannes:
+ * [__] Titel finden (5min)
+ * [__] Motivation überlegen (10min)
+ * [__] Gliederung erstellen (2min)
+ * [__] Einleitung entwerfen, Bild suchen (10min)
+ * [__] Datentypen auflisten, Tabelle (5min)
+ * [__] GUI-Prototyp entwerfen (pencil) (20min)
+ * [__] Prozessdiagramm erstellen (aris) (??)
+ * [__] Anwendungsfall 'Protokoll' beschreiben (15min)
+ * [__] Anwendungsfall 'Schuhabdruck' beschreiben (10min)
+ * [__] Performancebedingungen überlegen (??)
 
 == Polizeiberichte ==
 
