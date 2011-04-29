@@ -1,23 +1,23 @@
 GUI-Suchmaske:
-- nach Schuhgröße suchen
-- bessere Strukturierung in:
-	Person
-	Begriffe für Polizeiberichte
-	Beweismittel
-- zu Beweismittel kann ein Bild hochgeladen und/oder die Spezifikation eingeschränkt werden
-- Ähnlichkeits-Progressbar ist okay
+ *  nach Schuhgröße suchen
+ * bessere Strukturierung in:
+  ** Person
+  ** Begriffe für Polizeiberichte
+  ** Beweismittel
+ * zu Beweismittel kann ein Bild hochgeladen und/oder die Spezifikation eingeschränkt werden
+ * Ähnlichkeits-Progressbar ist okay
 
 GUI-Ergebnis Details: 
-- Personen kategorisieren
+ * Personen kategorisieren
 
 Suchprozess:
-- Suche zusammenfügen mit OR (outer join)
-- Bildsuche mit Treshold statt statisch auf 10 festlegen
-- Suche auch nach Schuhgröße
+ * Suche zusammenfügen mit OR (outer join)
+ * Bildsuche mit Treshold statt statisch auf 10 festlegen
+ * Suche auch nach Schuhgröße
 
 ERD:
-- Straftat.Art als Entität auslagern (mehrwertiges Attribut)
-- Straftat-Person Min-Max-Notation
+ * Straftat.Art als Entität auslagern (mehrwertiges Attribut)
+ * Straftat-Person Min-Max-Notation
 
 Powerpoint:
-- Quelle für Video angeben
+ * Quelle für Video angeben
