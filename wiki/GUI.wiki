@@ -1,6 +1,7 @@
 =GUI-Prototyp=
 Unterteilt in drei Bereiche "Sucheingabe", "Suchergebnis", "Ergebnisdetails".
 
+----
 ==Sucheingabe==
 
 http://mmdb.googlecode.com/svn/trunk/gui/suchmaske2_de.png
@@ -18,12 +19,14 @@ Der Nutzer kann einen bestimmte Beweismitteltyp auswählen (zum Anfang erstmal n
 
 Mit einem Klick auf "Datenbank durchsuchen" wird dann der Suchprozess schließlich abgeschickt.
 
+----
 ==Suchergebnis==
 
 http://mmdb.googlecode.com/svn/trunk/gui/suchergebnis2.png
 
 Hier werden die Suchtreffer sortiert nach Relevanz in einer Tabelle aufgelistet und eine Übersichtskarte mit allen gefundenen Treffern angezeigt. Der Nutzer kann hier durch an- oder abhaken einzelner Positionen die Anzeige dieser in der Karte ein- oder ausblenden. Als Zusatzinformation wird außerdem über die Spalte "Fund" mitgeteilt, durch welchen Zusammenhang der Treffer zustande kam (E für Evidence/Beweismittel, T für Term/Suchbegriff, P für Person). Durch Klick auf Details einer bestimmten Position gelangt der Nutzer zur Detailansicht eines Treffers.
 
+----
 ==Ergebnisdetails==
 
 http://mmdb.googlecode.com/svn/trunk/gui/ergebnisdetails.png
