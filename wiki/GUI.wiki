@@ -7,11 +7,14 @@ http://mmdb.googlecode.com/svn/trunk/gui/suchmaske2_de.png
 
 Die Suchmaske beinhaltet die Suche nach ein oder mehreren der drei Kategorien "Personen", "Begriffe" und "Beweismittel". Je nachdem, welchen der Bereiche der Nutzer hier ausfüllt werden diese entsprechend bei der Suche mit berücksichtigt.
 
-Person: Personennamen können über das Eingabefeld eingegeben werden und werden danach per Klick auf "Hinzu" kurz geparst und zur Personenliste hinzugefügt. In der Liste können ein oder mehrere Personen auch wieder selektiert und gelöscht werden.
+===Person===
+Personennamen können über das Eingabefeld eingegeben werden und werden danach per Klick auf "Hinzu" kurz geparst und zur Personenliste hinzugefügt. In der Liste können ein oder mehrere Personen auch wieder selektiert und gelöscht werden.
 
-Begriffe: Hier können ein oder mehrere Begriffe (je durch Kommata getrennt) eingegeben werden, nach denen alle vorhandenen Polizeiberichte durchsucht werden. Dabei werden je nach Trefferquote verschiedene Erweiterungen des Suchraums durch Fuzzy, Thesaurus, Stem und Soundex eingesetzt (siehe Suchprozess).
+===Begriffe===
+Hier können ein oder mehrere Begriffe (je durch Kommata getrennt) eingegeben werden, nach denen alle vorhandenen Polizeiberichte durchsucht werden. Dabei werden je nach Trefferquote verschiedene Erweiterungen des Suchraums durch Fuzzy, Thesaurus, Stem und Soundex eingesetzt (siehe Suchprozess).
 
-Beweismittel: Der Nutzer kann einen bestimmte Beweismitteltyp auswählen (zum Anfang erstmal nur Schuhabdruck) und anschließend dazu eine Bilddatei vom eigenen (lokalen) Dateisystem auswählen und hochladen. Ein Vorschaubild (Thumbnail) wird nach erfolgreichem Hochladen angezeigt. Zusätzlich kann der Nutzer noch einen Parameter, wie etwa Schuhgröße (oder Fingertyp bei Fingerabdruck, Kaliber bei einem ballistischen Geschoss etc.) angeben, welches dynamisch je nach Auswahl des Beweismitteltyps zur Verfügung steht. Wählt der Nutzer im Typ wieder "keine Auswahl", so wird der Eingabebereich für Beweismittel zurückgesetzt und eine evtl. hochgeladene Datei wieder entfernt, damit dies bei der Suche nun nicht mehr berücksichtigt wird.
+===Beweismittel===
+Der Nutzer kann einen bestimmte Beweismitteltyp auswählen (zum Anfang erstmal nur Schuhabdruck) und anschließend dazu eine Bilddatei vom eigenen (lokalen) Dateisystem auswählen und hochladen. Ein Vorschaubild (Thumbnail) wird nach erfolgreichem Hochladen angezeigt. Zusätzlich kann der Nutzer noch einen Parameter, wie etwa Schuhgröße (oder Fingertyp bei Fingerabdruck, Kaliber bei einem ballistischen Geschoss etc.) angeben, welches dynamisch je nach Auswahl des Beweismitteltyps zur Verfügung steht. Wählt der Nutzer im Typ wieder "keine Auswahl", so wird der Eingabebereich für Beweismittel zurückgesetzt und eine evtl. hochgeladene Datei wieder entfernt, damit dies bei der Suche nun nicht mehr berücksichtigt wird.
 
 Mit einem Klick auf "Datenbank durchsuchen" wird dann der Suchprozess schließlich abgeschickt.
 
