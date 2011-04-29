@@ -1,13 +1,23 @@
-#summary One-sentence summary of this page.
+GUI-Suchmaske:
+- nach Schuhgröße suchen
+- bessere Strukturierung in:
+	Person
+	Begriffe für Polizeiberichte
+	Beweismittel
+- zu Beweismittel kann ein Bild hochgeladen und/oder die Spezifikation eingeschränkt werden
+- Ähnlichkeits-Progressbar ist okay
 
-= Introduction =
+GUI-Ergebnis Details: 
+- Personen kategorisieren
 
-Add your content here.
+Suchprozess:
+- Suche zusammenfügen mit OR (outer join)
+- Bildsuche mit Treshold statt statisch auf 10 festlegen
+- Suche auch nach Schuhgröße
 
+ERD:
+- Straftat.Art als Entität auslagern (mehrwertiges Attribut)
+- Straftat-Person Min-Max-Notation
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Powerpoint:
+- Quelle für Video angeben
